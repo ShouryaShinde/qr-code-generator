@@ -23,7 +23,7 @@ This web app allows users to enter any URL and instantly generate a scannable QR
 
 ## 📂 Project Structure
 ```
-qr-code-generator-webapp/
+qr-code-generator/
 │
 ├── public/  # (HTML , CSS, images, etc.)
 ├── Screenshots/ # Screenshots (Home & QR display page)
@@ -37,7 +37,7 @@ qr-code-generator-webapp/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator-webapp.git
+   git clone https://github.com/your-username/qr-code-generator.git
    cd qr-code-generator
 2. Install Dependencies :
     ```bash
