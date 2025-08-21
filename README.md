@@ -54,8 +54,8 @@ qr-code-generator-webapp/
 ---
 
 ## 📸 Screenshots
-![Home Page](qr-code-generator/Screenshots/HomePage.png)
-![QR Page Image](qr-code-generator/Screenshots/QRPage.png)
+![Home Page](https://github.com/ShouryaShinde/qr-code-generator/blob/main/Screenshots/HomePage.png)
+![QR Page Image](https://github.com/ShouryaShinde/qr-code-generator/blob/main/Screenshots/QRPage.png)
 
 ---
 
