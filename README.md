@@ -40,26 +40,26 @@ qr-code-generator-webapp/
    git clone https://github.com/your-username/qr-code-generator-webapp.git
    cd qr-code-generator
 2. Install Dependencies :
- ```bash
-  npm install
-```
+    ```bash
+     npm install
+   ```
 3. Run the server :
-  ```bash
-  node app.js
-```
+     ```bash
+     node app.js
+   ```
 4. Open in Browser :
-```arduino
-http://localhost:3000/
-```
+   ```arduino
+   http://localhost:3000/
+   ```
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 ![Home Page](https://github.com/ShouryaShinde/qr-code-generator/Screenshots/HomePage.png)
-![QR Page Image](https://github.com/ShouryaShinde/qr-code-generator/Screenshots/QRImagePage.png)
+![QR Page Image](https://github.com/ShouryaShinde/qr-code-generator/Screenshots/QRPage.png)
 
 ---
 
-##🎯 Learnings
+## 🎯 Learnings
 
 - Setting up a Node.js + Express server.
 - Handling form data using body-parser.
@@ -68,19 +68,19 @@ http://localhost:3000/
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
 ---
 
-##🔗Connect
+## 🔗Connect
 
 [Github Repo](https://github.com/ShouryaShinde/gr-code-generator)
 
