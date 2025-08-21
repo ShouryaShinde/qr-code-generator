@@ -82,6 +82,6 @@ This project is licensed under the MIT License.
 
 ## 🔗Connect
 
-[Github Repo](https://github.com/ShouryaShinde/gr-code-generator)
+[Github Repo](https://github.com/ShouryaShinde/qr-code-generator)
 
 [LinkedIn Profile](https://www.linkedin.com/in/shourya-shinde-1a5425330/)
