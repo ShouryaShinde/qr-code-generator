@@ -1,0 +1,27 @@
+body {
+  background-color: var(--bs-info);
+  padding: 50px 50px 50px 50px;
+}
+.headtext {
+  font-size: 60px;
+  padding-bottom : 50px ;
+  font-family: "Federant", serif;
+  font-weight: 400;
+  font-style: normal;
+  color : #212529 ;
+}
+.input-field {
+  padding-bottom: 20px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.h2 {
+  font-size : 50px ;
+  font-family: "Libertinus Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+    color: var(	
+--bs-info-text-emphasis);
+}
+.secondpage {
+  background-color: var(--bs-info-bg-subtle);
+}
